@@ -15,5 +15,4 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONGDALKIM)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONGDALKIM&show_icons=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONGDALKIM)]
