@@ -1,4 +1,5 @@
-**Welcome to HYEONGDALKIM's Profile**                      //                    **Technology I've been working on at least once.** 
+**Welcome to HYEONGDALKIM's Profile**                      //            
+**Technology I've been working on at least once.** 
 **Sometimes it's hard and tiring. But I will never give up.**
 <img src="https://img.shields.io/badge/JavaScript-f7e600?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
