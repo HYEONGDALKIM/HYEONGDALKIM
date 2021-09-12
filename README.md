@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=SLICE&color=auto&height=300&section=header&text=　　　　　　　　ODOC%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=SLICE&color=auto&height=300&section=header&text=　　　　　　　　ODOC%20&fontSize=70)
 
 **Welcome to HYEONGDALKIM's Profile**
 
