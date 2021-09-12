@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=black&height=300&section=header&text=One Day One Commit%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=black&height=300&section=header&text=OneDayOneCommit%20&fontSize=70)
 
 **Welcome to HYEONGDALKIM's Profile**
 
