@@ -1,11 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=OneDayOneCommit%20&fontSize=60)
 
-　　　　　**Welcome to HYEONGDALKIM's Profile**
+　　　　　　　　　　**Welcome to HYEONGDALKIM's Profile**
 
-**Sometimes it's hard and tiring. But I will never give up.**
+　　　　　　　　　　**Sometimes it's hard and tiring. But I will never give up.**
 
-**Technology I've been working on at least once.** 
+　　　　　　　　　　**Technology I've been working on at least once.** 
 
 <img src="https://img.shields.io/badge/JavaScript-f7e600?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
