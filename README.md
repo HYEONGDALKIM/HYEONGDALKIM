@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=#white&height=250&section=header&text=OneDayOneCommit%20&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=#auto&height=250&section=header&text=OneDayOneCommit%20&fontSize=60)
 
 　　　　　　　　　　　　　　　　　**Welcome 😉**
            
