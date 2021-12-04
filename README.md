@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=#auto&height=250&section=header&text=OneDayOneCommit%20&fontSize=60)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=&color=#auto&height=250&section=header&text=OneDayOneCommit%20&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 　　　　　　　　　　　　　　　　　**Welcome 😉**
