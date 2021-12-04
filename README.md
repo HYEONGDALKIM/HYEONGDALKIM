@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=One_Day_One_Commit%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=One_Day_One_Commit%20render&fontSize=50)
 
 　　　　　　　　　　　　　　　　　**Welcome 😉**
            
