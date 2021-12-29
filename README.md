@@ -24,4 +24,6 @@
 <img src="https://img.shields.io/badge/oracle_sqldeveloper-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 
-　　　　　　　　　　![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONGDALKIM&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONGDALKIM&theme=dark&show_icons=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=HYEONGDALKIM)
