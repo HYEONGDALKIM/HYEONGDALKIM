@@ -1,10 +1,6 @@
-
-　　　　　　　　　　　　　　　　　**Welcome 😉**
-           
+　　  **Welcome 😉**           
 　　　　　　　　　　**Welcome to HYEONGDALKIM's Profile** 
-
 　　　　　　　　　　**Sometimes it's hard and tiring. But I will never give up.**
-
 　　　　　　　　　　**Technology I've been working on at least once..** 
 　　　　　　　　　　
 <img src="https://img.shields.io/badge/JavaScript-f7e600?style=flat-square&logo=javascript&logoColor=white"/></a>
