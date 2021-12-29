@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/oracle_sqldeveloper-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-
 ![HYEONGDALKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONGDALKIM&theme=dark&show_icons=true)
 [![HYEONGDALKIM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEONGDALKIM&theme=dark&show_icons=true&hide_border=true&title_color=white&icon_color=white&layout=compact)](https://github.com/HYEONGDALKIM)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=HYEONGDALKIM)
