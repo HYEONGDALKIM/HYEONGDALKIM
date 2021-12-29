@@ -15,6 +15,5 @@
 <img src="https://img.shields.io/badge/oracle_sqldeveloper-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 
 
-![HYEONGDALKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONGDALKIM&theme=dark&show_icons=true)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=HYEONGDALKIM)
+![HYEONGDALKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONGDALKIM&theme=dark&show_icons=true)
