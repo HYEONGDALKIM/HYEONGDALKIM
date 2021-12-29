@@ -1,5 +1,5 @@
 
-# Welcome !
+# HI!
 
 ### INTEREST SKILLS　　　
 <img src="https://img.shields.io/badge/JavaScript-f7e600?style=flat-square&logo=javascript&logoColor=white"/></a>
